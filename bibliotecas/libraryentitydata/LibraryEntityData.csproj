@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Dell|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Dell\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'teste|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\teste\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{395694B0-3DB6-48CF-9588-4B3294E5A793}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibraryEntityData</RootNamespace>
+    <AssemblyName>LibraryEntityData</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\empresa.cs" />
+    <Compile Include="Class\funcionario.cs" />
+    <Compile Include="Class\cliente.cs" />
+    <Compile Include="clsAuxiliares.cs" />
+    <Compile Include="JsonConversao.cs" />
+    <Compile Include="Routeasy\Model\Envio\mainEnvio.cs" />
+    <Compile Include="Routeasy\Model\Retorno\address.cs" />
+    <Compile Include="Routeasy\Model\Retorno\addresses_supplied.cs" />
+    <Compile Include="Routeasy\Model\Retorno\constraints.cs" />
+    <Compile Include="Routeasy\Model\Retorno\delivery.cs" />
+    <Compile Include="Routeasy\Model\Retorno\delivery_order.cs" />
+    <Compile Include="Routeasy\Model\Retorno\directions.cs" />
+    <Compile Include="Routeasy\Model\Retorno\end.cs" />
+    <Compile Include="Routeasy\Model\Retorno\geocode.cs" />
+    <Compile Include="Routeasy\Model\Retorno\mainRetorno.cs" />
+    <Compile Include="Routeasy\Model\Retorno\results.cs" />
+    <Compile Include="Routeasy\Model\Retorno\main.cs" />
+    <Compile Include="Routeasy\Model\Retorno\routes.cs" />
+    <Compile Include="Routeasy\Model\Retorno\start.cs" />
+    <Compile Include="Routeasy\Model\Retorno\state.cs" />
+    <Compile Include="Routeasy\Model\Retorno\steps.cs" />
+    <Compile Include="Routeasy\Model\Retorno\summary.cs" />
+    <Compile Include="Routeasy\Model\Retorno\tolls_square.cs" />
+    <Compile Include="Routeasy\Model\Retorno\toll_info.cs" />
+    <Compile Include="RouteasyDeliveries.cs" />
+    <Compile Include="Routeasy\Model\Retorno\window_daily.cs" />
+    <Compile Include="Dashboard-Manager.cs" />
+    <Compile Include="TopRouteJobs.cs" />
+    <Compile Include="TopRouteDocumentosRoteirizados.cs" />
+    <Compile Include="TopRouteFiliaisUsuario.cs" />
+    <Compile Include="TopRouteLogin.cs" />
+    <Compile Include="TopRoutePickingList.cs" />
+    <Compile Include="TopRouteUtil.cs" />
+    <Compile Include="TopRouteIndividual .cs" />
+    <Compile Include="TopRouteDetalheItensVeiculo.cs" />
+    <Compile Include="TopRouteIntegracaoLogs.cs" />
+    <Compile Include="TopRouteItens.cs" />
+    <Compile Include="TopRoute.cs" />
+    <Compile Include="OTMRoteirizacaoIntegracao.cs" />
+    <Compile Include="OTMRoteirizacaoViagens.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopRouteDashboard.cs" />
+    <Compile Include="TopRouteRotasDistribuicao.cs" />
+    <Compile Include="TopRouteUsuario.cs" />
+    <Compile Include="TopRouteUsuarioFilial.cs" />
+    <Compile Include="TopRouteVeiculo.cs" />
+    <Compile Include="TopRoute_EnderecosLatLong.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Routeasy\Model\Retorno\ModeloRetorno_alter.json" />
+    <None Include="Routeasy\Model\Retorno\ModeloRetorno.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Base\procedures\Testes.sql" />
+    <Content Include="Base\procedures\sp_roterizacao.sql" />
+    <Content Include="procedures\selects.sql" />
+    <Content Include="procedures\spGetRoteirizacaoDocumentos.sql" />
+    <Content Include="procedures\spTopRoute_PutRoteirizacaoItens.sql" />
+    <Content Include="procedures\sp_roterizacao.sql" />
+    <Content Include="procedures\sp_TopRouteDetalheItensVeiculo.sql" />
+    <Content Include="procedures\sp_TopRouteUsuarioAutenticado.sql" />
+    <Content Include="procedures\sp_TopRoute_Veiculos-V1.sql" />
+    <Content Include="procedures\sp_TopRoute_Veiculos.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Base\scripts\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(SQLDBExtensionsRefPath)\Microsoft.Data.Tools.Schema.Sql.UnitTesting.targets" Condition="'$(SQLDBExtensionsRefPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.Sql.UnitTesting.targets" Condition="'$(SQLDBExtensionsRefPath)' == ''" />
+  <PropertyGroup>
+    <SsdtUnitTestVersion>2.0</SsdtUnitTestVersion>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

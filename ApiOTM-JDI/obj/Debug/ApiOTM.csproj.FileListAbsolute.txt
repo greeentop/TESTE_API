@@ -1,0 +1,1033 @@
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\Dropbox\AngularJS\V.3\Back End\VISUAL STUDIO\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\Desktop\TopRoute\ApiOTM_Banck_end\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\Desktop\TopRoute\SOLISTICA\BackEnd\ApiOTM_Banck_end\Framework\4.8\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.6.0\fontes\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.0\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\versao 1.7.1\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.7.6\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\source\Workspaces\Soluções .NET\TopRoute\Dev-OTM\OTHERS\DEPLOY_APP\Framework 4.8\Versao 1.9.0\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\ApiOTM.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\EntityFramework.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Owin.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\WebGrease.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\EntityFramework.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\obj\Debug\ApiOTM.csprojAssemblyReference.cache
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\all-pfantin\Greentop\Azure.devOps\Back-End\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\ApiOTM.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Owin.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\WebGrease.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.csprojResolveAssemblyReference.cache
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\all-pfantin\Greentop\github\ApiOTM_Banck_end-master\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.pdb
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\ApplicationInsights.config
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\csc.exe
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\vbc.exe
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\ApiOTM.dll.config
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\ApiOTM.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\ApiOTM.pdb
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Antlr3.Runtime.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.SqlServer.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\LibraryEntityData.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.Web.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Newtonsoft.Json.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Owin.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Net.Http.Formatting.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Helpers.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.Owin.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.WebHost.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Mvc.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Optimization.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Razor.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\WebGrease.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\LibraryEntityData.pdb
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\LibraryEntityData.dll.config
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.Web.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Newtonsoft.Json.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Net.Http.Formatting.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Helpers.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.WebHost.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Mvc.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Optimization.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Razor.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Antlr3.Runtime.pdb
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\EntityFramework.SqlServer.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\bin\System.Web.Http.Owin.xml
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.AssemblyReference.cache
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.csproj.CopyComplete
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.dll
+C:\Users\pfantin\OneDrive - Banco FATOR S A\Área de Trabalho\Solistica\API-TOPROUTE\ApiOTM-JDI\obj\Debug\ApiOTM.pdb

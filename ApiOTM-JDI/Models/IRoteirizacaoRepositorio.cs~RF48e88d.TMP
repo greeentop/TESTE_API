@@ -1,0 +1,73 @@
+﻿using System.Collections.Generic;
+using System.Web.Http;
+using LibraryEntityData;
+
+namespace ApiOTM.Models
+{
+    public interface IRoteirizacaoRepositorio
+    {
+        IEnumerable<TopRoute> All { get; }
+        TopRoute Find(int id);
+        List<TopRouteItens> getRoteirizacaoItens(int id);
+
+        TopRouteDashboard getRoteirizacaoDashboard(int id);
+        
+        bool put(List<TopRouteItens> servico);
+        bool del(List<TopRouteItens> servico);
+        bool putRota(TopRouteItens putrota);
+        bool putEnviarOTM(TopRoute  roteirizacao);
+        bool putNaoRoteirizar(TopRouteItens putNaoRoteirizar);
+        bool putLimparVeiculo(TopRouteVeiculo putLimparVeiculo);
+        List<TopRouteRotasDistribuicao> get_RotasDistibuicao();
+
+        //bool salvaCliente(cliente cliente);
+        //bool salvateste([FromBody]object json);
+
+
+
+        //bool atualizarCliente(cliente cliente);
+
+        bool putSequencia(List<TopRouteItens> servicos);
+
+
+        //bool postRoteasy(routeasyRetorno jsonRotorno);
+
+
+
+
+        #region "VEICULOS"
+
+        List<TopRouteVeiculo> get_TopRouteVeiculos(int id);
+
+        TopRouteVeiculo get_TopRouteVeiculo(int id, int veiculo);
+
+        List<TopRouteDetalheItensVeiculo> getTopRoute_DetalheItensVeiculo(int id, int veiculo);
+        
+
+        TopRouteUsuario getTopRouteUsuarioAutenticado(string login);
+        
+
+
+
+        #endregion
+    }
+
+    
+}
+
+
+namespace Routeasy.Models
+{
+
+    public interface IRoteirizacaoRepositorio_Routeasy
+    {
+
+        bool deliveriesReturn([FromBody]object json);
+
+        bool deliveriesReturnProcess([FromBody]object json);
+
+    }
+}
+
+
+

@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\pfantin\\Desktop\\TopRoute\\SOLISTICA\\BackEnd\\ApiOTM_Banck_end\\Framework\\4.8\\ApiOTM-JDI\\ApiOTM.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

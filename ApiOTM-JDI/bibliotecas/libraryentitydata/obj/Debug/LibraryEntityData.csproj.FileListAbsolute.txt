@@ -1,0 +1,70 @@
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojResolveAssemblyReference.cache
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CoreCompileInputs.cache
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+E:\TopRoute\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojResolveAssemblyReference.cache
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CoreCompileInputs.cache
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+E:\TopRoute\TopRoute 1.0\BackEnd\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojResolveAssemblyReference.cache
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+C:\Users\Paulo Fantin\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojResolveAssemblyReference.cache
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CoreCompileInputs.cache
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+C:\Users\paulorcf\OneDrive\Desenv\IIS\DESENVELOPMENT\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojAssemblyReference.cache
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CopyComplete
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\Solistica\API\API\win\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojAssemblyReference.cache
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CopyComplete
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\API\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll.config
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\LibraryEntityData.pdb
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.Data.Tools.Components.resources.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csprojAssemblyReference.cache
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CoreCompileInputs.cache
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.csproj.CopyComplete
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.dll
+C:\Users\pfantin\Desktop\Solistica\PauloFantin\Femsa\Back End\BIBLIOTECAS\LibraryEntityData\obj\Debug\LibraryEntityData.pdb

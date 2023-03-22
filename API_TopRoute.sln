@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryEntityData", "BIBLIOTECAS\LibraryEntityData\LibraryEntityData.csproj", "{395694B0-3DB6-48CF-9588-4B3294E5A793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOTM", "ApiOTM-JDI\ApiOTM.csproj", "{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dell|Any CPU = Dell|Any CPU
+		Release|Any CPU = Release|Any CPU
+		teste|Any CPU = teste|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.Dell|Any CPU.ActiveCfg = Dell|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.Dell|Any CPU.Build.0 = Dell|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.teste|Any CPU.ActiveCfg = teste|Any CPU
+		{395694B0-3DB6-48CF-9588-4B3294E5A793}.teste|Any CPU.Build.0 = teste|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.Dell|Any CPU.ActiveCfg = Dell|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.Dell|Any CPU.Build.0 = Dell|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.teste|Any CPU.ActiveCfg = teste|Any CPU
+		{C792061B-6EE8-4E4C-93AE-53FEE8201CFB}.teste|Any CPU.Build.0 = teste|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DA98230-1D4D-4218-AEA6-EF82609D9C62}
+	EndGlobalSection
+EndGlobal
